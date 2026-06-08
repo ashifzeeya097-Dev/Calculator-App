@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A responsive and user-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and demonstrates DOM manipulation, event handling, and dynamic user interaction in JavaScript.
+A responsive and user-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and demonstrates DOM manipulation, event handling, and dynamic content updates.
 
 ## Features
 
@@ -24,7 +24,7 @@ A responsive and user-friendly calculator built using **HTML**, **CSS**, and **J
 calculator/
 │
 ├── index.html
-├── style.css
+├── styles.css
 ├── script.js
 └── README.md
 ```
@@ -57,8 +57,6 @@ No additional dependencies or installations are required.
 * Calculation history
 * Dark/Light theme toggle
 * Memory functions (M+, M-, MR, MC)
-
-```
 
 ## Author
 
