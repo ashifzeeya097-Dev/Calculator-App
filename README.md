@@ -2,6 +2,10 @@
 
 A responsive and user-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and demonstrates DOM manipulation, event handling, and dynamic content updates.
 
+# Live Demo Link
+
+https://ashifzeeya097-dev.github.io/Calculator-App/
+
 ## Features
 
 * Addition, subtraction, multiplication, and division
